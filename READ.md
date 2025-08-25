@@ -1,0 +1,3 @@
+
+
+A camera views a person's hand to control a robot hand's fingers via Raspberry Pi Pico. Using Mediapipe and  OpenCV Python libraries. Must use python 3.12 in order to use mediapipe library. Most code was generarted by Microsoft Copilot. Thonny IDE is used to control servo motors. Must save Micropython script as main.py on the pico internal flash memory via USB Com port. Then switch Thonny to local Python to free up serial communications while pico board is still connected.
